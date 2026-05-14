@@ -1,0 +1,46 @@
+# Documentación del Portafolio
+
+## Descripción general
+
+Este portafolio web fue creado como una plataforma personal para presentar el perfil profesional de Esteban Josue Mata Acosta. La página permite mostrar información personal, habilidades técnicas, proyectos destacados, currículum y medios de contacto.
+
+## Módulos del sistema
+
+### 1. Inicio
+
+Presenta el nombre, rol profesional, una breve descripción y botones principales para ver proyectos o descargar el CV.
+
+### 2. Sobre mí
+
+Contiene una descripción personal y profesional sobre el perfil del desarrollador, sus intereses y forma de trabajar.
+
+### 3. Habilidades
+
+Muestra las principales tecnologías y herramientas utilizadas, como C#, .NET, SQL Server, HTML, CSS, JavaScript y Microsoft Office.
+
+### 4. Proyectos
+
+Presenta tarjetas con los proyectos realizados. Cada proyecto incluye nombre, categoría, descripción, tecnologías utilizadas y enlace a GitHub.
+
+### 5. CV
+
+Permite descargar el currículum en formato PDF.
+
+### 6. Contacto
+
+Incluye enlaces directos al correo electrónico, GitHub, LinkedIn y WhatsApp.
+
+## Organización del código
+
+El proyecto está separado en archivos para mantener una estructura limpia:
+
+- `index.html`: contiene la estructura principal de la página.
+- `assets/css/style.css`: contiene todo el diseño visual.
+- `assets/js/script.js`: contiene la interactividad.
+- `assets/data/proyectos.json`: almacena la información de los proyectos.
+- `assets/img/`: contiene imágenes, logo, iconos y capturas de proyectos.
+- `assets/cv/`: contiene el currículum en PDF.
+
+## Publicación
+
+El proyecto puede publicarse usando GitHub Pages, ya que está desarrollado con HTML, CSS y JavaScript puro.
